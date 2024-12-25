@@ -1,0 +1,22 @@
+ Setup tailwind with CDN
+-> use any code editor
+->make HTML file and write code
+-> Add CDN link 
+-> add tailwind css code
+-> Test
+
+
+Setup tailwind with CLI
+- need node js and npm
+- install tailwind css dependecny
+- generate config file
+- update config file
+- make input css file
+- run build command and generate output file
+- make HTML  file and write code.
+- check auto suggestion with tailwind extension
+- why we use -D with npm install command ?
+
+
+
+
